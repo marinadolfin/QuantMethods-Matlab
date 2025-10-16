@@ -8,10 +8,8 @@ a Jupyter Notebook (.ipynb) Python version for cross-language learning.
 Static PDF versions of the Live Scripts are also provided for easy reference and offline review.
 
 Instructions
-Each topic is contained in its own folder and can be opened directly in MATLAB or Jupyter Lab.
-To explore the material interactively, open the corresponding Live Script (.mlx) file or the Jupyter Notebook.
-If you prefer a non-interactive view, a static PDF version of each Live Script is also provided.
-The instructions inside the Live Script guide you through the activities and exercises. It is recommended to run each section individually to observe intermediate results. Interactive controls (such as sliders, checkboxes, buttons, etc.) allow you to experiment with different parameters and datasets, encouraging exploration and hands-on learning.
+
+The instructions inside the Live Script or the Jupyter notebook guide you through the activities and exercises. It is recommended to run each section individually to observe intermediate results. Interactive controls (such as sliders, checkboxes, buttons, etc.) allow you to experiment with different parameters and datasets, encouraging exploration and hands-on learning.
 Contents
 The repository is organized into folders corresponding to the following chapters:
 1.	Data Analysis
