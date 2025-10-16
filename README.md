@@ -28,16 +28,26 @@ QMF1_7_Data_Analysis_Overfitting
 
 QMF1_8_Data_Analysis_MissingData
 
+
 3.	Modelling
    
 QMF2_1_Modelling_Optimization
+
 QMF2_2_Modelling_MonteCarloSimulations
+
 QMF2_3_Modelling_Regression
+
 QMF2_4_Modelling_RegressionTestingCAPM
+
+
 5.	Machine Learning
+
 QMF3_1_MachineLearning_Supervised
+
 This is a work in progress! Additional material will follow on Machine Larning examples and applications.
+
 Suggested Prework
+
 Introduction to MATLAB
 MATLAB Onramp - Learn the essentials of MATLAB through this free, two-hour introductory tutorial on commonly used features and workflows.
 
