@@ -7,8 +7,6 @@ a MATLAB Live Script (.mlx) with interactive controls, and
 a Jupyter Notebook (.ipynb) Python version for cross-language learning.
 Static PDF versions of the Live Scripts are also provided for easy reference and offline review.
 
-Instructions
-
 The instructions inside the Live Script or the Jupyter notebook guide you through the activities and exercises. It is recommended to run each section individually to observe intermediate results. Interactive controls (such as sliders, checkboxes, buttons, etc.) allow you to experiment with different parameters and datasets, encouraging exploration and hands-on learning.
 Contents
 The repository is organized into folders corresponding to the following chapters:
