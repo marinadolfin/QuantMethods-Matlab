@@ -44,6 +44,13 @@ QMF2_4_Modelling_RegressionTestingCAPM
 
 QMF3_1_MachineLearning_Supervised
 
+4. Python codes (Jupyter notebooks)
+
+ 
+QMF1_1_Data_Analysis (how to import the data)
+
+QMF2_3_Modelling_Regression (a basic OLS)
+
 This is a work in progress! Additional material will follow on Machine Larning examples and applications.
 
 Suggested Prework
