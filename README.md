@@ -48,7 +48,7 @@ QMF3_2_ML_CreditBonds
 
 QMF3_3_ML_FXTrading
 
-This is a work in progress! Additional material will follow on Machine Larning examples and applications.
+This is a work in progress! Additional material will follow.
 
 Suggested Prework
 
